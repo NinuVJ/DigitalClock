@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+#DigitalClock{
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    text-align: center;
+    color: #fff;
+    font-size: 60px;
+    letter-spacing: 7px;
+    font-family: Orbitron;
+
+}
